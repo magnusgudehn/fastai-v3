@@ -10,7 +10,7 @@ from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
 export_file_url = 'https://drive.google.com/uc?export=download&id=1HhMm8tiEyiHWnB_jCuXL-NXWgRC-j0wm
-export_file_name = 'export.pkl'
+export_file_name = 'bollkoll2.pkl'
 
 classes = ['Titleist', 'Top Flite', 'Callaway', 'Mozze']
 path = Path(__file__).parent
